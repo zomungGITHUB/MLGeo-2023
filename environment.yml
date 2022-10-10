@@ -5,6 +5,7 @@ dependencies:
   - python=3.9
   - jupyter
   - earthpy
+  - pyarrow
   - plotly
   - geopandas
   - matplotlib
