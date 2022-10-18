@@ -2,7 +2,7 @@ name: mlgeo_sk
 channels:
   - conda-forge
 dependencies:
-  - python=3.8
+  - python=3.9
   - jupyterlab
   - pyarrow
   - plotly
@@ -13,6 +13,10 @@ dependencies:
   - rasterio
   - scikit-learn
   - shapely
+  - netcdf
+  - wget
+  - h5py
+  - zarr
   - xarray
   - nbgitpuller
   - pip=20
