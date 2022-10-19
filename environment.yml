@@ -13,10 +13,11 @@ dependencies:
   - rasterio
   - scikit-learn
   - shapely
-  - netcdf
+  - netcdf4
   - wget
   - h5py
   - zarr
   - xarray
+  - folium
   - nbgitpuller
   - pip=20
