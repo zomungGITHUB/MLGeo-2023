@@ -19,6 +19,7 @@ dependencies:
   - h5py
   - zarr
   - xarray
+  - obspy
   - folium
   - nbgitpuller
   - pip=20
