@@ -21,5 +21,6 @@ dependencies:
   - xarray
   - obspy
   - folium
+  - tsfresh
   - nbgitpuller
   - pip=20
