@@ -23,5 +23,6 @@ dependencies:
   - folium
   - tsfresh
   - pooch
+  - seaborn
   - nbgitpuller
   - pip=20
