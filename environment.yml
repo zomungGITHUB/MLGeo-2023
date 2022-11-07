@@ -25,4 +25,5 @@ dependencies:
   - pooch
   - seaborn
   - nbgitpuller
+  - auto-sklearn
   - pip=20
