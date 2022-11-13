@@ -1,4 +1,4 @@
-name: mlgeo_sk
+name: mlgeo
 channels:
   - conda-forge
 dependencies:
@@ -26,4 +26,6 @@ dependencies:
   - seaborn
   - nbgitpuller
   - auto-sklearn
+  - pytorch
+  - torchvision
   - pip=20
