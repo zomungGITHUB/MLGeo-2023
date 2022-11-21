@@ -1,6 +1,7 @@
 name: mlgeo
 channels:
   - conda-forge
+  - pytorch
 dependencies:
   - python=3.9
   - jupyterlab
@@ -21,11 +22,8 @@ dependencies:
   - xarray
   - obspy
   - folium
-  - tsfresh
-  - pooch
   - seaborn
-  - nbgitpuller
-  - auto-sklearn
   - pytorch
   - torchvision
+  - torchaudio
   - pip=20
