@@ -23,7 +23,4 @@ dependencies:
   - obspy
   - folium
   - seaborn
-  - pytorch
-  - torchvision
-  - torchaudio
   - pip=20
