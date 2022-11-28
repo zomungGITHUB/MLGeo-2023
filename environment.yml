@@ -23,4 +23,6 @@ dependencies:
   - obspy
   - folium
   - seaborn
+  - pytorch
+  - torchvision
   - pip=20
