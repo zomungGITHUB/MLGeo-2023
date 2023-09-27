@@ -1,11 +1,11 @@
-# MLGeo-Autumn22
-Autumn 2022: Machine Learning for the Geoscience
+# MLGeo-2023
+A UW course for Machine Learning for the Geoscience
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UW-ESS-DS/MLGeo-Autmn22/HEAD)
 
 
 Instructor: Marine Denolle (mdenolle at uw.edu)
-Supported by: the GeoSMART team (Stefan Todoran, Nicoleta Cristea, Anthony Arendt, Scott Henderson, Ziheng Sun)
+Supported by the GeoSMART team (Stefan Todoran, Nicoleta Cristea, Anthony Arendt, Scott Henderson, Ziheng Sun)
 
 # Overview
 The course is intended to introduce Machine Learning in Geosciences, the basics of computing, and methodologies in applied machine learning. The course focuses on canonical and topical data sets in seismology, oceanography, cryosphere, planetary sciences, geology, and geodesy. The methods taught include unsupervised clustering, logistic regression, random forest, support vector machine, and deep learning.
