@@ -4,7 +4,7 @@ A UW course for Machine Learning for the Geoscience
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UW-ESS-DS/MLGeo-Autmn22/HEAD)
 
 
-Instructor: Marine Denolle (mdenolle at uw.edu)
+Instructor: Marine Denolle (mdenolle at uw.edu) and Akshay Mehra (akmehra at uw.edu)
 Supported by the GeoSMART team (Stefan Todoran, Nicoleta Cristea, Anthony Arendt, Scott Henderson, Ziheng Sun)
 
 # Overview
